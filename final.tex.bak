@@ -1,18 +1,17 @@
-\documentclass[oneside]{ctexbook}
+\documentclass{ctexart}
 \usepackage{fontspec}
 \usepackage{xeCJK}
 \setmainfont{Times New Roman}
-\setCJKmainfont[BoldFont = STZhongsong, ItalicFont = STKaiti]{STSong}
+\setCJKmainfont{微软雅黑}
 
 \begin{document}
 	\title{马克思}
 	\author{Peter Singer}
 	\date{}
 	\maketitle
-	%\clearpage
-	\frontmatter
-		\include{preface}
+	\clearpage
 	\tableofcontents
-	\mainmatter
+	
+	\include{preface}
 	\include{a_life_and_its_impact}
 \end{document}
