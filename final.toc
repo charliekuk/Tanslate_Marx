@@ -1,2 +1,2 @@
-\contentsline {chapter}{前言}{i}
-\contentsline {chapter}{\numberline {第一章\hspace {0.3em}}生平与影响}{1}
+\contentsline {chapter}{前言}{i}% 
+\contentsline {chapter}{\numberline {第一章\hspace {.3em}}生平与影响}{1}% 
